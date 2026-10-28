@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://seilbekberik-sketch.github.io/sitemap.xml
